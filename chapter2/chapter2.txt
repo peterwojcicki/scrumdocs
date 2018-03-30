@@ -7,4 +7,4 @@ The scrum team consists of:
 2) Scrum master
 3) Product Owner
 
-In Scrum there is no Manager role.
+In scrum there is no Scrum Manager role.
