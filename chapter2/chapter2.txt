@@ -1,0 +1,10 @@
+Title:
+Scrum Team
+
+Content:
+The scrum team consists of:
+1) Development team
+2) Scrum master
+3) Product Owner
+
+In scrum there is no Scrum Manager role.
