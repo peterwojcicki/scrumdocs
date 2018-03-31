@@ -4,3 +4,4 @@ Introduction to Scrum
 Contents: 
 Scrum is a framework for developing complex projects in complex environments. Scrum do not prescribe techniques or tools to employ, but leaves it up to the scrum practicioners.
 Scrum prescribes the use of events, roles, rules and artifacts (master).
+Scrum is across multiple types of projects (branch).
